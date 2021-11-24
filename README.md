@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @w41k3r70093
+- 👋 Hi, I’m @Sparsh
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python lanugauage
 - 💞️ I’m looking to collaborate with my junior people facing difficulty while coding python
